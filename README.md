@@ -98,7 +98,7 @@ If a team does not pay their dues by the designated date they are not eligible t
 <br><br>
 
 ## __Section III - Payout__ ##
-- 1st Place: $140 (66%)
+- 1st Place: $160 (66%)
 - 2nd Place: $60 (25%)
 - 3rd Place: $20 (8%)
 
